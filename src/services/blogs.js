@@ -13,12 +13,7 @@ const getAll = () => {
 }
 
 
-const createBlog = async (newObject) => {
-  const config = {
-    headers: { Authorization: token },
-  };
 
-}
 
 
 export default { getAll }
